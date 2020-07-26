@@ -1,3 +1,4 @@
 pierwsza zmiana na master
 
 kolejna zmiana przed merge ze stylami
+wprowadzamy style
