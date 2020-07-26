@@ -1,1 +1,3 @@
 pierwsza zmiana na master
+
+wprowadzamy style
